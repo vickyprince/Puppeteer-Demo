@@ -2,7 +2,9 @@
 
 This project is created using puppeteer and typescript
 
-Inorder to run this project install puppeteer and typescript in your project folder.
+Inorder to run this project follow these steps
+1. Do run these commands for package installation-> "npm init" and "npm install puppeteer".
+2. Run this command to launch the application -> "node index.js"
 
 Two ways to run this project
 
