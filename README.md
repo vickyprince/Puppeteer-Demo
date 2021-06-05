@@ -14,7 +14,7 @@ Two ways to run this project
 
 2. Runing the server without opening the browser. By default i have made it work without opening the browser.
 
-PS:Both will give the same otput
+PS:Both will give the same output. I have already ran the scripts and stored the list of airport data inside airportList.json which is in the src folder.
 
 Running the project> node index.js
 
